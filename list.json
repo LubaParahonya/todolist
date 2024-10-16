@@ -1,0 +1,34 @@
+[
+        {
+            "id": 1,
+            "tast": "Приготовить ужин",
+            "isChecked": true
+        },
+        {
+            "id": 2,
+            "tast": "Помыть посуду",
+            "isChecked": false
+        }, {
+            "id": 3,
+            "tast": "Покортить попугая",
+            "isChecked": false
+        }, {
+            "id": 4,
+            "tast": "Сходить в магазин",
+            "isChecked": true
+        }, {
+            "id": 5,
+            "tast": "Выучить 10 слов на английском",
+            "isChecked": true
+        },
+        {
+            "id": 6,
+            "tast": "Погулять с собакой",
+            "isChecked": false
+        },
+        {
+            "id": 7,
+            "tast": "Позвонить подруге",
+            "isChecked": true
+        }
+    ]
